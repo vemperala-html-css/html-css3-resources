@@ -1,2 +1,9 @@
 ****test to display in vertical 
 writing-mode: vertical-rl;
+
+
+****linear gradient which gradient the background
+background:linear-gradient(to bottom, #6acbcb, #a0098A);
+
+**** transform text to uppercase or lowercase
+text-transform: uppercase;
